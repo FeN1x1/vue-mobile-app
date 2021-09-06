@@ -1,0 +1,20 @@
+{
+    "routes" : [
+        {
+          "name": "Rewards",
+          "path": "rewards"
+        },
+        {
+          "name": "Coach",
+          "path": "coach"
+        },
+        {
+          "name": "Doctor",
+          "path": "doctor"
+        },
+        {
+          "name": "Me",
+          "path": "me"
+        }
+    ]
+}

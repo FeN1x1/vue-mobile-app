@@ -1,0 +1,79 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Onboarding",
+            "description": "Adipisicing elit. Aliquam, beatae. Velit minima magnam, sapiente, odio",
+            "points": 20,
+            "date": "Monday",
+            "state": {
+                "completed": false
+            },
+            "dailyStepsActual": 928,
+            "dailyStepsRequired": 4000,
+            "rewardPointsActual": 20,
+            "rewardPointsRequired": 50,
+            "rewardImage": "defaultCup.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Onboarding",
+            "description": "Adipisicing elit. Aliquam, beatae. Velit minima magnam, sapiente, odio",
+            "points": 10,
+            "date": "Tuesday",
+            "state": {
+                "completed": true
+            },
+            "dailyStepsActual": 928,
+            "dailyStepsRequired": 4000,
+            "rewardPointsActual": 20,
+            "rewardPointsRequired": 50,
+            "rewardImage": "defaultCup.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Onboarding",
+            "description": "Adipisicing elit. Aliquam, beatae. Velit minima magnam, sapiente, odio",
+            "points": 10,
+            "date": "Wednesday",
+            "state": {
+                "completed": true
+            },
+            "dailyStepsActual": 928,
+            "dailyStepsRequired": 4000,
+            "rewardPointsActual": 20,
+            "rewardPointsRequired": 50,
+            "rewardImage": "defaultCup.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Onboarding",
+            "description": "Adipisicing elit. Aliquam, beatae. Velit minima magnam, sapiente, odio",
+            "points": 5,
+            "date": "Thursday",
+            "state": {
+                "completed": false
+            },
+            "dailyStepsActual": 928,
+            "dailyStepsRequired": 4000,
+            "rewardPointsActual": 20,
+            "rewardPointsRequired": 50,
+            "rewardImage": "defaultCup.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Onboarding",
+            "description": "Adipisicing elit. Aliquam, beatae. Velit minima magnam, sapiente, odio",
+            "points": 10,
+            "date": "Friday",
+            "state": {
+                "completed": false
+            },
+            "dailyStepsActual": 928,
+            "dailyStepsRequired": 4000,
+            "rewardPointsActual": 20,
+            "rewardPointsRequired": 50,
+            "rewardImage": "defaultCup.jpg"
+        }
+    ]
+}
